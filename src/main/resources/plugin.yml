@@ -1,0 +1,5 @@
+name: SCGoldenSpear
+main: one.sweptthr.scgoldenspear.SCGoldenSpear
+version: 1.0
+author: SweptThrone
+api-version: "1.21"
